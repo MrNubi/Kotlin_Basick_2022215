@@ -19,6 +19,12 @@
         android:text="Toast버튼"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"></Button>
+    <Button
+        android:id="@+id/btnVar"
+        android:text="Var / Val"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></Button>
+
 
 
 
