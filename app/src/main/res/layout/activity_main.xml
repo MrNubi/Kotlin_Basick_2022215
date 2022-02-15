@@ -24,6 +24,11 @@
         android:text="Var / Val"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"></Button>
+    <Button
+        android:id="@+id/btnCondition"
+        android:text="if 시리즈 on"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></Button>
 
 
 
