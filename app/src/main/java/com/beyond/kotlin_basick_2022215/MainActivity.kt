@@ -15,13 +15,13 @@ class MainActivity : AppCompatActivity() {
         //setContentView라는 기능을 수행, R.layout.activity_main을 쓰겟다고
 
 
-            var k = findViewById<Button>(R.id.btnLog)
+        var k = findViewById<Button>(R.id.btnLog)
 
-            k.setOnClickListener {
+        k.setOnClickListener {
 
-                Log.d("","")
+              Log.d("","")
 
-            }
+        }
 
     }
 }
